@@ -6,8 +6,7 @@ API RESTful pour gérer une collection de jeux vidéo avec interface graphique.
 
 ## 🎬 Démo
 
-![Démo de l'application](./demo.gif)
-
+![Démo de l'application](https://github.com/djibril1212/game-api-app/blob/main/Enregistrement-de-l'écran-2025-12-10-à-16.28.17.gif?raw=true)
 ## ✨ Fonctionnalités
 
 ### API RESTful
